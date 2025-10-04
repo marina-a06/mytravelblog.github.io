@@ -1,7 +1,6 @@
-## Project Name 
-### Frank Lloyd Wright My Travel Blog 
+# Frank Lloyd Wright My Travel Blog 
 
-**Risk**  
+## Risk  
 1. Not enough vacation time from work to travel.  
 2. Not enough funds to travel.   
 3. Losing battery life to on cellular devise to document visit. 
@@ -15,13 +14,13 @@
 >4. Access 3 x 3 = 9  
 >5. Loneliness 3 x 2 = 6
 
-**Plan**  
+## Plan  
 1. Vacation time- Accept  
     * Current work vaction time at job is 5 weeks plus 2 weeks of sick pay. I will plan travel time accordingly throughout the year.  
 2. Funds- Mitigate  
     * I will budget traveling accordingly. After more exposure to my website, I will seek funding to continue to travel and explore.  
 
-**Work Breakdown Structure**  
+## Work Breakdown Structure 
 
 Travel Blog  
 1. Budget  
