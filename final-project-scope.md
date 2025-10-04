@@ -1,4 +1,3 @@
-
 # Frank Lloyd Wright My Travel Blog  
 
 ## Project Purpose  
