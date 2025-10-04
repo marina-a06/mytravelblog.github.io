@@ -5,10 +5,9 @@ h1 { color: #e1dfd2; font-size: 40pt; text-align: center;}
 h2 {font-size: 20pt; text-align: center; color: #857440}
 p { color: #37541e; font-size: 20pt; text-align: center; padding-inline: 2em; background-color: #e1dfd2;}
 h3 {color:#37541e}
-a { color: #black; font-size: 15pt; display: flex;
-  justify-content: center; /* horizontal centering */; align-items: center; /* vertical centering */}
+a { color: #357413; font-size: 15pt; display: flex;}
 
-h4 {font-size: 10pt; color: #857440;}
-ul {font-size: 10pt; color: #857440;}
+h4 {font-size: 12pt; color: #857440;}2
+ul {font-size: 12pt; color: #857440;}
 
 body { font-family:'Times New Roman', Times, serif }
